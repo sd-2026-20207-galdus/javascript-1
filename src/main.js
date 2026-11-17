@@ -139,5 +139,6 @@ function contaLettere(testo) {
 
 function calcolaEta(dataDiNascita) {
   const today = new Date()
+  const birthdate = new Date()
 
 }
