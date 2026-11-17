@@ -120,3 +120,24 @@ function divisione(num1, num2) {
 }
 
 console.log(divisione(10, 5))
+
+// esercizo 5
+
+function ordinaLettere(stringa) {
+  console.log(stringa.split("").sort().join(""))
+}
+
+ordinaLettere("Manuel")
+
+// esercizo 6
+
+function contaLettere(testo) {
+  console.log(testo.length)
+}
+
+// esercizio 7
+
+function calcolaEta(dataDiNascita) {
+  const today = new Date()
+
+}
